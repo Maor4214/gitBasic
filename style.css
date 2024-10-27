@@ -2,3 +2,10 @@ body {
   background-color: black;
   color: white;
 }
+.ball {
+  border-radius: 50%;
+  width: 100px;
+  height: 100px;
+  background-color: palevioletred;
+  margin: auto;
+}
